@@ -1,0 +1,1 @@
+https://kort.nunagis.gl/refserver/rest/services/Asiaq_Data/GrundkortData_Husnummer_Bnummer/MapServer/1|B-nummer Grundkort

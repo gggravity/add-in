@@ -1,0 +1,4 @@
+C:\DATA\0600NUK\ECW_10cm\0600NUK_Merged_0.10m_alpha_Z22.ecw|Nuuk Ortofoto
+C:\DATA\1501NIA\ORTO\TIFF_original\1501NIA_MSL_GCP_2022_transparent_mosaic_group1.tif|Niaqornat Ortofoto
+C:\data\1503IKE\ORTO\TIF_Original\1503IKE_MSL_GCP_2022_transparent_mosaic_group1.tif|Ikerasak Ortofoto
+C:\data\1504SAA\ORTO\TIF_Original\1504SAA_MSL_GCP_2022_transparent_mosaic_group1.tif|Saattut Ortofoto
