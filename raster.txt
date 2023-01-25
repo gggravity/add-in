@@ -1,4 +1,4 @@
-L:\RASTER_DATA\0100NAN\2000\NAN0100_ortofoto.ecw|Nanortalik ortofoto 2000 !
+L:\RASTER_DATA\0100NAN\2000\NAN0100_ortofoto.ecw|Nanortalik ortofoto 2000
 L:\RASTER_DATA\0102APL\2019\EFTERBEHANDLET\ORTO\0102apl_transparent_mosaic_group1_0.10m_alpha_Z23.ecw|Aappilattoq mosaic 2019 Z23
 L:\RASTER_DATA\0102APL\2019\EFTERBEHANDLET\ORTO\0102apl_transparent_mosaic_group1_0.10m_alpha_Z24.ecw|Aappilattoq mosaic 2019 Z24
 L:\RASTER_DATA\0102APL\APL0102_ortofoto.ecw|Aappilattoq ortofoto
